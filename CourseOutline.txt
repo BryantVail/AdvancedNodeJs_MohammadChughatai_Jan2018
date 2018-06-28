@@ -1,0 +1,42 @@
+{
+	"courseName"	: "Advanced Node.js",
+	"author		: "Mohammad Chughatai",
+	"videos		: [
+		"the course overview",
+		"Structuring Our Application with MVC Architecture and Git",
+		"Mongoose - Introduction to MongoDB Object Modeling",
+		"Mongoose - CRUD Operations and Express Review",
+		
+		"What is the Templating and EJS?",
+		"Sending Data from our Server-Side",
+		"Looping Through Data & Conditional Rendering With EJS",
+		"Include Tag with EJS",
+		
+		"Introduction to OAuth",
+		"Setting up Routes for Facebook Authentication",
+		"Setting up a Facebook Strategy with the 'Passport' Module",
+		"Setting up Sessions & Testing our facebook logins",
+		"Setting up Local Users Using Mongoose and Sessions",
+		
+		"Introduction to Encrypting Sensitive Data",
+		"Encrypting User Passwords",
+		"Confirming our newly Encrypted passwords",
+		
+		"Project Setup",
+		"Creating the Database Schemas",
+		"Creating Local Authentication",
+		"Creating Facebook Authentication",
+		"Creating a Search and Dashboard Page",
+		"Creating a Profile and Settings Layout",
+		"Setting up Nodemailer to Send Email Notifications",
+		"Deploying Our Application to Heroku"
+	],
+
+}
+
+
+
+
+
+
+
