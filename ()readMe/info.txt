@@ -18,3 +18,9 @@ The key's randomart image is:
 |*B+=+..          |
 |@EB=+=o.         |
 +----[SHA256]-----+
+
+
+
+Dell@DELL-PC MINGW64 ~/Documents/GitHub/AdvancedNodeJs_MohammadChughatai_Jan2018 (1-2_MVC-Mongoose-Mongo-DataModeling)
+$ cat /c/Users/Dell/.ssh/id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDOZ13/Xt45NbLA3rnauVaNH0cpFXp38JYv/eS6Kxa5nH9YSqZzzFuvKYL73uMfD9javORf7a7sYMDW8jthkWUOFPnDaPWvx5Ag4s+So4i9H0Ij90EltKEU1VVaUEyIYrutfJ5O+4UZEjPw1M+F1fKfSY4zirH7Neh/w8Y2+39l9xULlzCn5nvJRKFVKrNLfsv7QoLOryjROrvgTQ2fiiQq3ClfkGJkRFBDLtnAA/8tuuEczBTJ0LZjac9ENGfSQmkagsIZwDqkOWxlFaCBrJ7WZB0bsX/SD97oxyo3POVO6co0S8NMeAAuhbmgWG31F1c8ohmuZd45jDn0PICbbhdsuNzT9zbeaz/f58Z67TcdRygrEvraIVWAoYMSlBCQ3Z4O8LPaKibF5X47Nrzycd4K9hgNYs2FaQZflxA4WSmgjOCKauZHxfuXTD0QRWfx7I09zXHt0MMSR/idMU+85sCoaVcFniS6V6L8Mi2oDKGlZIAH6lpGwT2hAf1I01M8O7n7NhybBG59MovB02duTcKvuLwMoQ4jmZ4Zl4y77fKtsRgNufm+B8iKGkb52D3omaKiSN7elQQX6R7wRaXuyuinulk/Zsen9Fh4/L4WW86JeWipoVnuvoUlRSnTZ8rRRwp15SzRhxXUy0h89GzYVRU/mvNYPDe/QQa0SEoxRF6Wfw== BryantVail@gmail.com
