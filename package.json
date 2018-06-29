@@ -1,0 +1,22 @@
+{
+  "name": "advancednodejs_mohammadchughatai_jan2018",
+  "version": "1.0.0",
+  "description": "tutorial, advanced server side programming with node.js",
+  "main": "app.js",
+  "scripts": {
+    "server": "nodemon run app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryantVail/AdvancedNodeJs_MohammadChughatai_Jan2018.git"
+  },
+  "author": "Bryant V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryantVail/AdvancedNodeJs_MohammadChughatai_Jan2018/issues"
+  },
+  "homepage": "https://github.com/BryantVail/AdvancedNodeJs_MohammadChughatai_Jan2018#readme",
+  "dependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
