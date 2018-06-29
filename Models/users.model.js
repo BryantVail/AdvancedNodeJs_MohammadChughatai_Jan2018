@@ -13,11 +13,9 @@ const UserSchema = new Schema({
     },
     isOver21:{
         type    :Boolean,
-        required    :true
+        required    :false
     }
 });
-
-
 
 
 

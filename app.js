@@ -6,10 +6,17 @@ const app           = express();
 const mongodb       = require("mongodb");
 const mongoose      = require("mongoose");
 const keys          = require("./config/keys");
-let   port          = process.env.PORT || 3000;
+let   port          = process.env.PORT || 5000;
 
-//models
-const User          = require("./Models/user.model.js");
+//modelsf
+const User          = require("./Models/users.model.js");
+
+
+
+//db connect
+mongoose.connect(keys.mlab.mongodbURI, function(res){
+    console.log(`${res}, db connected`);
+});
 
 //app start
 app.listen(port, (error) =>{
@@ -21,19 +28,6 @@ app.listen(port, (error) =>{
         console.log(error);
     }
 });
-
-//db connect
-mongoose.connect(keys.mlab.mongodbURI, (error) =>{
-    if(!error){
-        console.log(
-            "MongoDB connected"
-        );
-    }else{
-        console.log(error);
-    }
-});
-
-
 
 
 
