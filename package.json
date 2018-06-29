@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/BryantVail/AdvancedNodeJs_MohammadChughatai_Jan2018#readme",
   "dependencies": {
+    "eslint": "^5.0.1",
     "express": "^4.16.3",
     "mongodb": "^3.1.0",
     "mongoose": "^5.1.7",
